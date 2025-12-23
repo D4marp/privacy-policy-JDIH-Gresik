@@ -1,0 +1,91 @@
+{
+  "appName": "JDIH Kab. Gresik",
+  "appDescription": "Aplikasi Jaringan Dokumentasi dan Informasi Hukum Kabupaten Gresik - Platform informasi publik yang menyediakan akses mudah ke peraturan perundang-undangan dan dokumentasi hukum Kabupaten Gresik. Tanpa login, gratis, dan terpercaya.",
+  "publisher": "Pemerintah Kabupaten Gresik",
+  "category": "Books & Reference",
+  "targetAudience": [
+    "Pelajar",
+    "Mahasiswa",
+    "Profesional Hukum",
+    "Masyarakat Umum",
+    "Aparatur Pemerintah"
+  ],
+  "features": [
+    "Akses Gratis ke Peraturan Hukum",
+    "Tanpa Login atau Registrasi",
+    "Informasi Lengkap dan Terkini",
+    "Pencarian Cepat dan Mudah",
+    "Mode Offline",
+    "Aman dan Terpercaya",
+    "Update Berkala",
+    "Sumber Resmi Pemerintah"
+  ],
+  "content": {
+    "hasLogin": false,
+    "hasRegistration": false,
+    "hasPayment": false,
+    "hasAds": false,
+    "isPublicInformation": true,
+    "dataCollection": "minimal_analytics_only"
+  },
+  "privacy": {
+    "privacyPolicyUrl": "/privacy-policy",
+    "termsOfServiceUrl": "/terms-of-service",
+    "noPersonalDataCollection": true,
+    "noLoginRequired": true,
+    "dataEncryption": true
+  },
+  "contact": {
+    "organization": "Dinas Komunikasi dan Informatika Kabupaten Gresik",
+    "email": "info@gresikkab.go.id",
+    "phone": "(031) 3980800",
+    "website": "www.gresikkab.go.id",
+    "address": "Jl. Soekarno-Hatta No. 1, Gresik"
+  },
+  "platforms": {
+    "android": {
+      "minSdkVersion": 26,
+      "targetSdkVersion": 34,
+      "requiredPermissions": [
+        "INTERNET"
+      ]
+    },
+    "ios": {
+      "minimumOSVersion": "12.0",
+      "requiredCapabilities": []
+    }
+  },
+  "screenshots": {
+    "description": [
+      "Beranda aplikasi dengan akses cepat ke berbagai kategori",
+      "Halaman pencarian untuk menemukan peraturan dengan mudah",
+      "Detail dokumen hukum dengan informasi lengkap",
+      "Mode offline untuk akses dokumen tanpa internet",
+      "Daftar favorit untuk menyimpan dokumen penting"
+    ]
+  },
+  "keywords": [
+    "JDIH",
+    "Gresik",
+    "Hukum",
+    "Peraturan",
+    "Perda",
+    "Informasi Publik",
+    "Dokumentasi",
+    "Kabupaten Gresik",
+    "Keputusan Bupati",
+    "Peraturan Daerah"
+  ],
+  "version": "1.0.0",
+  "releaseDate": "2025-12-23",
+  "changelog": {
+    "1.0.0": [
+      "Rilis pertama aplikasi JDIH Kab. Gresik",
+      "Fitur pencarian dokumen hukum",
+      "Mode offline untuk dokumen favorit",
+      "Antarmuka user-friendly",
+      "Keamanan data yang terjamin",
+      "Akses gratis tanpa login"
+    ]
+  }
+}

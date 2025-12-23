@@ -1,0 +1,28 @@
+{
+  "name": "jdih-gresik",
+  "version": "1.0.0",
+  "description": "Aplikasi Jaringan Dokumentasi dan Informasi Hukum Kabupaten Gresik - Platform informasi publik yang menyediakan akses mudah ke peraturan perundang-undangan dan dokumentasi hukum Kabupaten Gresik. Tanpa login, gratis, dan terpercaya.",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "next": "^15.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "@types/node": "^20.14.9",
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.7",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "^15.1.0"
+  }
+}
